@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm a full-stack developer specializing in building exceptional web applications and digital experiences. Currently, I'm focused on building responsive full-stack web applications. 👋
 
-<!--
-**maj39623/maj39623** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Hardvard's CS50 Intro to Computer Science Course.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Comptia A+ Exam.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on React Projects.
+
+- 🤔 I’m looking for help with joining a team of programmers at a great company.
+
+- 💬 Ask me about anything tech related.
+
+- 📫 How to reach me: Linkedin
+
+- 😄 Pronouns: He/His
+
+- ⚡ Fun fact: I enjoy photography
+
