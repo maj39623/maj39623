@@ -1,8 +1,8 @@
 ### Hi there, I'm a full-stack developer specializing in building exceptional web applications and digital experiences. Currently, I'm focused on building responsive full-stack web applications. 👋
 
-- 🔭 I’m currently working on Hardvard's CS50 Intro to Computer Science Course.
+- 🔭 I’m currently working on building Vue.js projects.
 
-- 🌱 I’m currently learning Comptia A+ Exam.
+- 🌱 I’m currently learning data structures and algorithims.
 
 - 👯 I’m looking to collaborate on React Projects.
 
